@@ -1,0 +1,47 @@
+_repo: Famous-American-Belles-of-the-Nineteenth-Century_46013
+_version: 0.1.0
+alternative_title: Famous American Belles of the 19th Century
+covers:
+- cover_type: archival
+  image_path: 46013-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Peacock, Virginia Tatnall
+    birthdate: 1873
+    deathdate: 1918
+    gutenberg_agent_id: '43572'
+    url: http://www.gutenberg.org/2009/agents/43572
+description: Marcia Burns (Mrs. John Peter Van Ness) - Theodosia Burr (Mrs. Joseph
+  Alston) - Elizabeth Patterson (Madame Jerome Bonaparte) - The Caton sisters. - Margaret
+  O'Neill (Mrs. John H. Eaton) - Cora Livingston (Mrs. Thomas Pennant Barton) - Emily
+  Marshall (Mrs. William Foster Otis) - Octavia Walton (Madame Le Vert) - Fanny Taylor
+  (Mrs. Thomas Harding Ellis) - Jessie Benton (Mrs. John C. Frémont) - Sallie Ward
+  (Mrs. George F. Downs) - Harriet Lane (Mrs. Henry Elliott Johnston) - Adèle Cutts
+  (Mrs. Robert Williams) - Emilie Schaumburg (Mrs. Hughes-Hallett) - Kate Chase (Mrs.
+  William Sprague) - Mattle Ould (Mrs. Oliver Schoolcraft) - Jennie Jerome (Lady Randolph
+  Churchill) - Nellie Hazeltine (Mrs. Frederick W. Paramore) - Mary Victoria Leiter
+  (Baroness Curzon of Kedieston) - New York as a social centre.
+gutenberg_issued: '2014-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46013'
+  lccn: 01029226
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Women -- United States -- Biography'
+tableOfContents: Marcia Burns (Mrs. John Peter Van Ness) -- Theodosia Burr (Mrs. Joseph
+  Alston) -- Elizabeth Patterson (Madame Jerome Bonaparte) -- The Caton sisters --
+  Margaret O'Neill (Mrs. John H. Eaton) -- Cora Livingston (Mrs. Thomas Pennant Barton)
+  -- Emily Marshall (Mrs. William Foster Otis) -- Octavia Walton (Madame Le Vert)
+  -- Fanny Taylor (Mrs. Thomas Harding Ellis) -- Jessie Benton (Mrs. John C. Frémont)
+  -- Sallie Ward (Mrs. George F. Downs) -- Harriet Lane (Mrs. Henry Elliott Johnston)
+  -- Adèle Cutts (Mrs. Robert Williams) -- Emilie Schaumburg (Mrs. Hughes-Hallett)
+  -- Kate Chase (Mrs. William Sprague) -- Mattie Ould (Mrs. Oliver Schoolcraft) --
+  Jennie Jerome (Lady Randolph Churchill) -- Nellie Hazeltine (Mrs. Frederick W. Paramore)
+  -- Mary Victoria Leiter (Baroness Curzon of Kedleston) -- New York as a social centre.
+title: Famous American Belles of the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/46013
